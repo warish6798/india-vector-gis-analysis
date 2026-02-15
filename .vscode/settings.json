@@ -1,0 +1,4 @@
+{
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "chat.tools.terminal.autoApproveWorkspaceNpmScripts": true
+}
